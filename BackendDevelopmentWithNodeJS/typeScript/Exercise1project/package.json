@@ -1,0 +1,17 @@
+{
+  "name": "exercise1project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.1.0",
+    "@types/node": "^16.3.1",
+    "typescript": "^4.3.5"
+  }
+}
